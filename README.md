@@ -1,6 +1,6 @@
 # Supreme Rocket Maintenance - Rocketman
 
-Supreme Rocket Maintenance - Rocketman is my first, simple HTML and CSS project showcasing a fictional company that offers maintenance services for rockets. The project is designed to demonstrate basic web development skills using HTML and CSS.
+Supreme Rocket Maintenance - Rocketman is my first, simple HTML and CSS webpage showcasing a fictional company that offers maintenance services for rockets. The project is designed to demonstrate basic web development skills using HTML and CSS.
 
 ## Preview
 
