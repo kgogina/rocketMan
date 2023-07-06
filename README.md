@@ -2,6 +2,10 @@
 
 Supreme Rocket Maintenance - Rocketman is a simple HTML and CSS project showcasing a fictional company that offers maintenance services for rockets. The project is designed to demonstrate basic web development skills using HTML and CSS.
 
+## Preview
+
+![Demo](demo.png)
+
 ## Features
 
 - Responsive Design: The project is responsive and optimized for different screen sizes, ensuring a seamless user experience on desktop and mobile devices.
