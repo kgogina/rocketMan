@@ -4,7 +4,7 @@ Supreme Rocket Maintenance - Rocketman is a simple HTML and CSS project showcasi
 
 ## Preview
 
-![Demo](demo.png)
+![Demo](preview_ss.png)
 
 ## Features
 
